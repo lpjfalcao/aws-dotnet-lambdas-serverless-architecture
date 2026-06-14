@@ -2,8 +2,6 @@
 
 A production-ready cloud architecture leveraging **AWS Lambda** functions built with **.NET 8** (or .NET 9) and structured under the rigorous principles of **Clean Architecture**. This repository serves as a blueprint for deploying highly scalable, decoupled, and maintainable serverless microservices.
 
-This repository contains a preview sample of Curriculo4Dev, a specialized digital product I am currently building as part of my Micro-SaaS ecosystem. Curriculo4Dev is designed to help software engineers craft high-impact, ATS-friendly, and market-ready resumes tailored for global tech career opportunities. 
-
 This section showcases the foundational architecture and early-stage development of Curriculo4Dev, a commercial Micro-SaaS product I am actively building. The diagrams and code shared here represent the initial milestone of the platform, highlighting my approach to cloud-native scalability, clean architecture, and serverless design. While the core product remains proprietary, this public sample demonstrates the software engineering blueprints and technical decisions driving the project forward.
 
 <img width="1821" height="2270" alt="image" src="https://github.com/user-attachments/assets/632183a5-3cd2-44c9-b2e2-3e8aed8e114b" />
