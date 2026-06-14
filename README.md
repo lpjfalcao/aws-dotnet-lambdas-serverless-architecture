@@ -21,7 +21,6 @@ This repository demonstrates how to combine the rapid scalability of **AWS Serve
 
 ### Key Highlights
 * **Domain-Driven Design (DDD) Influenced:** Isolated Core Domain containing business logic, aggregates, and specifications.
-* **Low Cold-Start Tailoring:** Optimized C# compilation targets tailored specifically for fast serverless lifecycle execution.
 * **Decoupled Messaging:** Out-of-the-box support for event-driven flows using cloud native patterns.
 
 ---
