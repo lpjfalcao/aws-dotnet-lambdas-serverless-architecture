@@ -1,0 +1,22 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/Curriculo4Dev/.vs
+/Curriculo4Dev/Curriculo4Dev.Core.Application/obj
+/Curriculo4Dev/Curriculo4Dev.Core.Domain/bin/Debug/net8.0
+/Curriculo4Dev/Curriculo4Dev.Core.Domain/obj
+/Curriculo4Dev/Curriculo4Dev.Infra.Adapters/obj
+/Curriculo4Dev/Curriculo4Dev.Infra.Apis/bin/Debug/net8.0
+/Curriculo4Dev/Curriculo4Dev.Infra.Apis/obj
+/Curriculo4Dev/Curriculo4Dev.Infra.IoC/bin/Debug/net8.0
+/Curriculo4Dev/Curriculo4Dev.Infra.IoC/obj
+/Curriculo4Dev/Curriculo4Dev.Infra.Persistence/bin/Debug/net8.0
+/Curriculo4Dev/Curriculo4Dev.Infra.Persistence/obj
+/Curriculo4Dev/Curriculo4Dev.Lambdas/bin/Debug
+/Curriculo4Dev/Curriculo4Dev.Lambdas/obj
+/Curriculo4Dev/Curriculo4Dev.Tests/bin/Debug/net8.0
+/Curriculo4Dev/Curriculo4Dev.Tests/obj
+/Curriculo4Dev/Curriculo4Dev.Core.Application/bin/Debug/net8.0
+/Curriculo4Dev/Curriculo4Dev.UnitTests/bin/Debug/net8.0
+/Curriculo4Dev/Curriculo4Dev.UnitTests/obj

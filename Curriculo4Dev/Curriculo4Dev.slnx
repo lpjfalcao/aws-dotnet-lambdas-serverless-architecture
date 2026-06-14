@@ -1,0 +1,18 @@
+<Solution>
+  <Folder Name="/1 - Presentation/">
+    <Project Path="Curriculo4Dev.Lambdas/Curriculo4Dev.Lambdas.csproj" />
+  </Folder>
+  <Folder Name="/2 - Core/">
+    <Project Path="Curriculo4Dev.Core.Application/Curriculo4Dev.Core.Application.csproj" Id="1c3c3efd-64c7-451d-bea8-cfa87468395e" />
+    <Project Path="Curriculo4Dev.Core.Domain/Curriculo4Dev.Core.Domain.csproj" Id="e5f81cc1-2934-4e8c-affe-f6560fe56680" />
+  </Folder>
+  <Folder Name="/3 - Infra/">
+    <Project Path="Curriculo4Dev.Infra.Apis/Curriculo4Dev.Infra.Apis.csproj" Id="d54ef47f-3107-4477-8a88-bcfa49c9d380" />
+    <Project Path="Curriculo4Dev.Infra.IoC/Curriculo4Dev.Infra.IoC.csproj" Id="cc4d8abf-ec29-424e-b6c0-60505939985f" />
+    <Project Path="Curriculo4Dev.Infra.Persistence/Curriculo4Dev.Infra.Persistence.csproj" Id="a02d28ad-62ec-4931-92e7-6636c6ce78c3" />
+  </Folder>
+  <Folder Name="/4 - Tests/">
+    <Project Path="Curriculo4Dev.Tests/Curriculo4Dev.IntegrationTests.csproj" Id="b14e24c6-05f5-4ab5-a76b-c955f9932617" />
+    <Project Path="Curriculo4Dev.UnitTests/Curriculo4Dev.UnitTests.csproj" Id="aa698a59-ee9b-49b4-bcfb-c177fcd807e0" />
+  </Folder>
+</Solution>
