@@ -4,8 +4,7 @@ A production-ready cloud architecture leveraging **AWS Lambda** functions built 
 
 This section showcases the foundational architecture and early-stage development of Curriculo4Dev, a commercial Micro-SaaS product I am actively building. The diagrams and code shared here represent the initial milestone of the platform, highlighting my approach to cloud-native scalability, clean architecture, and serverless design. While the core product remains proprietary, this public sample demonstrates the software engineering blueprints and technical decisions driving the project forward.
 
-<img width="1821" height="2270" alt="image" src="https://github.com/user-attachments/assets/632183a5-3cd2-44c9-b2e2-3e8aed8e114b" />
-
+<img width="1710" height="2262" alt="diagrama_arquitetura_c4d drawio" src="https://github.com/user-attachments/assets/a9e8d1da-b6c4-40d4-9ba2-dfedbf9cd304" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
