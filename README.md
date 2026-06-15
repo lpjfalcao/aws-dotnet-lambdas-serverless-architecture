@@ -34,5 +34,5 @@ The codebase is organized into multi-project layers enforcing strict dependency 
 │   ├── 🏢 Domain         # Core business logic, Entities and Interfaces
 │   ├── ⚙️ Application    # Use Cases, DTOs, and Ports
 │   ├── ☁️ Infrastructure # Database Contexts, External API Clients, AWS Service Implementations
-│   └── ⚡ Presentation    # AWS Lambda Function Handlers (API Gateway / SQS / EventBridge triggers)
+│   └── ⚡ Lambdas    # AWS Lambda Function Handlers (API Gateway / SQS / EventBridge triggers)
 └── 📂 tests              # Unit, Integration, and Architecture-guard automated test suites
